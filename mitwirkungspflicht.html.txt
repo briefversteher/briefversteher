@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<title>Mitwirkungspflicht – einfach erklärt</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+<a href="index.html">Start</a>
+<a href="jobcenter.html">Jobcenter</a>
+<a href="ueber.html">Über</a>
+</header>
+
+<div class="container">
+<h1>Mitwirkungspflicht – einfach erklärt</h1>
+<p>Die Mitwirkungspflicht bedeutet, dass du dem Jobcenter Informationen liefern musst.</p>
+</div>
+</body>
+</html>
