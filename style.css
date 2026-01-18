@@ -17,6 +17,12 @@ footer a {
 footer a:hover {
   text-decoration: underline;
 }
+footer {
+  width: 100%;
+  text-align: center !important;
+}
+
+
 
 
 
