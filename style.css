@@ -8,10 +8,17 @@ body {
   margin: 40px auto;
   padding: 20px;
 }
-footer {
-  text-align: center;
-  margin: 40px 0;
+footer a {
+  color: #666;
+  text-decoration: none;
+  font-size: 14px;
 }
+
+footer a:hover {
+  text-decoration: underline;
+}
+
+
 
 
 
